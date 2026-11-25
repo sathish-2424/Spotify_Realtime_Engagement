@@ -1,0 +1,26 @@
+track_id,track_name,artist_id,album_name,release_date,duration_ms,popularity_score,explicit,danceability,energy,tempo_bpm,duration_mins
+4cOdK2wGLETKBW3PvgPWqT,Hukum - Thalaivar Alappara,ART_01,Jailer (Original Motion Picture Soundtrack),2023-07-17,207000,85,False,0.78,0.89,130.0,3.45
+1BxfuPKGuaTgP7aM0Bbdwr,Cruel Summer,ART_07,Lover,2019-08-23,178426,92,False,0.55,0.7,170.0,2.97
+0VjIjW4GlUZAMYd2vXMi3b,Blinding Lights,ART_03,After Hours,2020-03-20,200040,91,False,0.51,0.73,171.0,3.33
+7qiZfU4dY1lWllzX7mPBI3,Munbe Vaa,ART_02,Sillunu Oru Kaadhal,2006-08-10,358000,79,False,0.62,0.48,96.0,5.97
+3n3Ppam7vgaVa1iaRUc9Lp,Mr. Brightside,ART_05,Hot Fuss (Special Edition),2004-06-15,222973,84,False,0.35,0.91,148.0,3.72
+5QO79kh1waicV47BqGRL3g,Save Your Tears,ART_03,After Hours,2020-03-20,215626,88,True,0.68,0.82,118.0,3.59
+2takcwOaAZWiXQijPHIx7B,Naan Pizhai,ART_01,Kaathuvaakula Rendu Kaadhal,2022-01-03,243000,77,False,0.64,0.52,102.0,4.05
+6habFhsOp2NvshLv26DqMb,Kadhaippoma,ART_04,Oh My Kadavule,2020-02-14,268000,76,False,0.58,0.45,92.0,4.47
+4Dvkj6JhhA12EX05fT7y2e,As It Was,ART_05,Future Nostalgia,2022-04-01,167303,89,False,0.52,0.73,174.0,2.79
+1rqqCSm0Qe4I9rUvWncaom,Enjoy Enjaami,ART_06,Enjoy Enjaami - Single,2021-03-07,294000,75,False,0.81,0.76,120.0,4.9
+3DarAbFujv6eYNliUTyqtz,Kesariya,ART_02,Brahmastra,2022-07-17,268164,83,False,0.59,0.57,94.0,4.47
+7MXVkk9YMctZqd1Srtv4MB,Starboy,ART_03,Starboy,2016-11-25,230453,90,True,0.68,0.59,186.0,3.84
+0tgVpDi06FyKpA1z0VMD4v,Rowdy Baby,ART_10,Maari 2,2018-11-28,281000,78,False,0.86,0.84,128.0,4.68
+2LBqCSwhJGcFQeTHMVGwy3,Die For You,ART_03,Starboy,2016-11-25,260253,86,False,0.58,0.52,134.0,4.34
+5W3cjX2J3tjhG8zb6u0qHn,Tere Vaaste,ART_08,Zara Hatke Zara Bachke,2023-05-22,189000,80,False,0.71,0.64,112.0,3.15
+1zi7xx7UVFpkmKfv0628zy,Delilah (pull me out of this),ART_09,Actual Life 3,2022-10-28,250412,74,False,0.73,0.88,134.0,4.17
+6I9VzXrHxO9rA9A5euc8Ak,Arabic Kuthu,ART_01,Beast,2022-02-14,279000,82,False,0.84,0.87,124.0,4.65
+3AJwUDP919kvQ9QcozQPxg,Yellow,ART_07,Parachutes,2000-07-10,266773,87,False,0.43,0.66,173.0,4.45
+4uUG5RXrOk84mYEfFvj3cK,I'm Good (Blue),ART_05,I'm Good - Single,2022-08-26,175238,84,True,0.56,0.96,128.0,2.92
+2VxeLyX666F8uXCJ0dZF8B,Shallow,ART_08,A Star Is Born,2018-09-27,215733,83,False,0.57,0.39,96.0,3.6
+0e7ipj03S05BNilyu5bRzt,Why This Kolaveri Di,ART_01,3 (Original Motion Picture Soundtrack),2011-11-16,259000,73,False,0.76,0.61,104.0,4.32
+5ChkMS8OtdzJeqyybCc9R5,Levitating,ART_05,Future Nostalgia,2020-03-27,203064,86,False,0.7,0.83,103.0,3.38
+3KkXRkHbMCARz0aVfEt68P,Sunflower,ART_03,Spider-Man: Into the Spider-Verse,2018-10-18,158040,88,False,0.76,0.48,90.0,2.63
+7xGfFoTpQ2E7fRF5lN10tr,Kanave Kanave,ART_01,David,2013-01-14,285000,72,False,0.48,0.44,88.0,4.75
+4iJyoBOLtHqaGxP12qzhQI,Peaches,ART_09,Justice,2021-03-19,198081,81,True,0.68,0.7,90.0,3.3

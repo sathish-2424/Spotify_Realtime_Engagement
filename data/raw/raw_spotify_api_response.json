@@ -1,0 +1,191 @@
+{
+  "href": "https://api.spotify.com/v1/playlists/PL_01/tracks?offset=0&limit=5",
+  "limit": 5,
+  "total": 25,
+  "items": [
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "4cOdK2wGLETKBW3PvgPWqT",
+        "name": "Hukum - Thalaivar Alappara",
+        "popularity": 85,
+        "duration_ms": 207000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT"
+        },
+        "album": {
+          "name": "Jailer (Original Motion Picture Soundtrack)",
+          "release_date": "2023-07-17"
+        },
+        "artists": [
+          {
+            "id": "ART_01",
+            "name": "Anirudh Ravichander"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "1BxfuPKGuaTgP7aM0Bbdwr",
+        "name": "Cruel Summer",
+        "popularity": 92,
+        "duration_ms": 178426,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+        },
+        "album": {
+          "name": "Lover",
+          "release_date": "2019-08-23"
+        },
+        "artists": [
+          {
+            "id": "ART_07",
+            "name": "Taylor Swift"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "0VjIjW4GlUZAMYd2vXMi3b",
+        "name": "Blinding Lights",
+        "popularity": 91,
+        "duration_ms": 200040,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b"
+        },
+        "album": {
+          "name": "After Hours",
+          "release_date": "2020-03-20"
+        },
+        "artists": [
+          {
+            "id": "ART_03",
+            "name": "The Weeknd"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "7qiZfU4dY1lWllzX7mPBI3",
+        "name": "Munbe Vaa",
+        "popularity": 79,
+        "duration_ms": 358000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+        },
+        "album": {
+          "name": "Sillunu Oru Kaadhal",
+          "release_date": "2006-08-10"
+        },
+        "artists": [
+          {
+            "id": "ART_02",
+            "name": "A.R. Rahman"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "3n3Ppam7vgaVa1iaRUc9Lp",
+        "name": "Mr. Brightside",
+        "popularity": 84,
+        "duration_ms": 222973,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/3n3Ppam7vgaVa1iaRUc9Lp"
+        },
+        "album": {
+          "name": "Hot Fuss (Special Edition)",
+          "release_date": "2004-06-15"
+        },
+        "artists": [
+          {
+            "id": "ART_05",
+            "name": "Dua Lipa"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "5QO79kh1waicV47BqGRL3g",
+        "name": "Save Your Tears",
+        "popularity": 88,
+        "duration_ms": 215626,
+        "explicit": true,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g"
+        },
+        "album": {
+          "name": "After Hours",
+          "release_date": "2020-03-20"
+        },
+        "artists": [
+          {
+            "id": "ART_03",
+            "name": "The Weeknd"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "2takcwOaAZWiXQijPHIx7B",
+        "name": "Naan Pizhai",
+        "popularity": 77,
+        "duration_ms": 243000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B"
+        },
+        "album": {
+          "name": "Kaathuvaakula Rendu Kaadhal",
+          "release_date": "2022-01-03"
+        },
+        "artists": [
+          {
+            "id": "ART_01",
+            "name": "Anirudh Ravichander"
+          }
+        ]
+      }
+    },
+    {
+      "added_at": "2026-11-20T10:15:30Z",
+      "track": {
+        "id": "6habFhsOp2NvshLv26DqMb",
+        "name": "Kadhaippoma",
+        "popularity": 76,
+        "duration_ms": 268000,
+        "explicit": false,
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+        },
+        "album": {
+          "name": "Oh My Kadavule",
+          "release_date": "2020-02-14"
+        },
+        "artists": [
+          {
+            "id": "ART_04",
+            "name": "Sid Sriram"
+          }
+        ]
+      }
+    }
+  ]
+}
